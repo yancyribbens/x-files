@@ -1,2 +1,2 @@
 # x-files
-A description of knowledge
+Recently, I've been working hard to document the various challenges I have while building software and using the computer in general.  I'd like to start a blog where I post about things I'm working on, and hopefully allow other people to learn from my mistakes and success.  Another goal is to build tooling to allow others to comment and reply.  I've found a few other people who do this online, for example https://blahg.josefsipek.net/?p=580 which I hope to model my content after.  Keeping a log of things I work on has been helpful to me and hopefully will also be helpful to others.
